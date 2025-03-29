@@ -1,0 +1,12 @@
+{
+  "name": "dust",
+  "version": "1.0.0",
+  "description": "Dust particle effect",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^25.9.8"
+  }
+}
